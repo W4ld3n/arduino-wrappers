@@ -1,0 +1,7 @@
+Led	KEYWORD1
+blink	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+isPwm	KEYWORD2
+setIntensity	KEYWORD2
+setColor	KEYWORD2
